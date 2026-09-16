@@ -1,2 +1,2 @@
 # E-commerce-Dataset-Data-Validation-Analysis-
-SQL and visualization portfolio project analyzing healthcare datasets
+SQL and visualization portfolio project analyzing e-commerce datasets
